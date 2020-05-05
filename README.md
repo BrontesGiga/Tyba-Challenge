@@ -20,3 +20,5 @@ Finally to run in you local computer type
 ```
 python run.py
 ```
+
+GUIDE FROM "https://blog.miguelgrinberg.com/post/restful-authentication-with-flask"
